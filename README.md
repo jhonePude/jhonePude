@@ -7,8 +7,9 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Jhone Pude</h1>
-<h3 align="center">A student exploring web development and programming</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Jhone+Pude;A+student+exploring+web+development+and+programming" alt="Typing SVG" />
+</p>
 
 - 🌱 I’m currently learning **Web Development**
 

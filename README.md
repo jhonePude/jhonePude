@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Jhone+Pude" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20Jhone%20Pude" alt="Typing SVG" />
 </p>
 
 <h3 align="center">A student exploring web development and programming</h3>

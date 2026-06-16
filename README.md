@@ -1,12 +1,10 @@
-<img
-  src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif"
-  alt="Banner"
-  width="300%"
-  style="
-    -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
-    mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
-  "
-/>
+<p align="center">
+  <img
+    src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif"
+    alt="Banner"
+    width="100%"
+  />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Jhone Pude</h1>
@@ -26,7 +24,7 @@
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://github.com/jhonePude">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonePude&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>

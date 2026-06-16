@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I think i love to sleep.**
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jhonePude&theme=highcontrast&border_radius=6&short_numbers=true" alt="GitHub Streak" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

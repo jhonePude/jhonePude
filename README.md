@@ -1,26 +1,49 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Jhone%20Pude&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=jhonePude">
-    <img src="https://komarev.com/ghpvc/?username=jhonePude&label=Profile%20views&color=00FFFF&style=flat-square" alt="jhonePude's profile views" />
-  </a>
-</p>
-
 <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
+<style>
+.banner-container {
+  width: 100%;
+}
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/jhonePude">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonePude&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="jhonePude's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=jhonePude&theme=dark&hide_border=true&cache_seconds=86400" alt="jhonePude's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=jhonePude&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Jhone Pude's GitHub Trophies" />
-</p>
+.banner-container img {
+  display: block;
+  width: 100%;
+
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
+
+  mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
+}
+</style>
 
 
-## 🛠️ Languages & Tools
+<h1 align="center">Hi 👋, I'm Jhone Pude</h1>
+<h3 align="center">A student exploring web development and programming</h3>
+
+- 🌱 I’m currently learning **Web Development**
+
+- 🤝 I’m looking for help with **Everything**
+
+- 💬 Ask me about **Java,Python**
+
+- 📫 How to reach me **jhonepude@gmail.com**
+
+- ⚡ Fun fact **I think i love to sleep.**
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jhonePude&theme=highcontrast&border_radius=6&short_numbers=true" alt="GitHub Streak" /></a>
+
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
   <a href="https://github.com/jhonePude">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonePude&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
@@ -32,4 +55,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-

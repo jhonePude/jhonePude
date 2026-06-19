@@ -10,7 +10,7 @@
 <h1 align="center">HI 👋, I'M</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=55&pause=1000&color=FF4D30&center=true&vCenter=true&width=900&height=120&lines=JHONE+PUDE" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Typing SVG" />
 </p>
 
 <h3 align="center">A student exploring web development and programming</h3>
